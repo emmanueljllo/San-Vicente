@@ -51,7 +51,7 @@ Follow these steps to set up the project from scratch:
 
 ```bash
 # 1. Clone the repository
-git clone <URL_OF_YOUR_REPOSITORY>
+git clone https://github.com/emmanueljllo/San-Vicente.git
 cd San-Vicente-master
 
 # 2. Apply migrations (if using EF Core)
