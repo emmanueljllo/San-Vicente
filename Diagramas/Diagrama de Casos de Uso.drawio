@@ -1,0 +1,16 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
+  <diagram name="Página-1" id="dWCHK1utz96LiKwyJ7v5">
+    <mxGraphModel dx="2187" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="N7969AVdBKEOd54NVN9p-5" value="Actor Use Case" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="30" width="560" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="N7969AVdBKEOd54NVN9p-6" value="&lt;b&gt;Administrative Staff&lt;/b&gt;Manage Patients (Register, Edit, List, Validate Duplicity)&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;Administrative Staff&lt;/b&gt;Manage Doctors (Register, Edit, List, Filter by Specialty, Validate Duplicity)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Administrative Staff&lt;/b&gt;Schedule Appointment (Validate Doctor/Patient Conflict)&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Administrative Staff&lt;/b&gt;Cancel Appointment&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Administrative Staff&lt;/b&gt;Mark Appointment as Attended&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Administrative Staff&lt;/b&gt;List Appointments by Patient&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Administrative Staff&lt;/b&gt;List Appointments by Doctor&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;System&lt;/b&gt;Send Appointment Confirmation Email&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;System&lt;/b&gt;Log Email Sending History&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="N7969AVdBKEOd54NVN9p-5">
+          <mxGeometry y="30" width="560" height="340" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
