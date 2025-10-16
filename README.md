@@ -60,9 +60,7 @@ dotnet ef database update
 
 # 3. Run the application
 dotnet run
- Example execution
-txt
-Copy code
+
 ===== SAN VICENTE HOSPITAL SYSTEM =====
 
 1. Register patient
@@ -76,10 +74,6 @@ Select an option:
 
  Diagrams
 System diagrams are located at the folder:
-
-Copy code
-/Diagrams
-Includes:
 
  Class diagram
 
