@@ -32,11 +32,11 @@ Before running the project, make sure you have installed:
 The system connects to MySQL with the following configuration:
 
 DB_CONNECTION=mysql
-DB_HOST=168.119.183.3
+DB_HOST=********
 DB_PORT=3307
-DB_DATABASE=eloquent
+DB_DATABASE=Emmanueljllo
 DB_USERNAME=root
-DB_PASSWORD=g0tIFJEQsKHm5$34Pxu1
+DB_PASSWORD=**********
 
 yaml
 Copy code
